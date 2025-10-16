@@ -1,2 +1,22 @@
-# gridmind_mvp
-🌍 GridMind AI — An open-source AI platform that identifies, ranks, and optimizes renewable energy project sites using solar, wind, terrain, and grid data. Built for developers, EPCs, and investors accelerating the global energy transition.
+# ⚡ GridMind AI — Renewable Energy Intelligence Platform
+
+**GridMind AI** is an open-source MVP that uses artificial intelligence and open geospatial data to **find the most efficient renewable energy sites** and generate quick feasibility insights.
+
+### 🔋 Key Features
+- 🌞 **Solar & Wind Scoring:** ranks candidate locations by yield, terrain, and grid proximity  
+- ⚙️ **Configurable Weights:** tune scoring directly from the UI  
+- 📄 **PDF Reports:** one-click feasibility summaries for top sites  
+- 📊 **CSV Upload:** test your own datasets  
+- 🛰️ **Data Import Templates:** PVGIS, Global Wind Atlas, and OpenInfraMap ready
+
+### 🧠 Vision
+> To become the “AI brain” of decentralized renewable systems — from site discovery to real-time microgrid optimization.
+
+---
+
+### 🧭 Quick Start
+```bash
+git clone https://github.com/<your-username>/gridmind_mvp.git
+cd gridmind_mvp
+pip install -r requirements.txt
+streamlit run app.py
