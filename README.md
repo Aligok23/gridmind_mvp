@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Aligok23/gridmind_mvp/main/docs/gridmind_banner.png" 
+       alt="GridMind AI Banner" width="100%">
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/Aligok23/gridmind_mvp/main/gridmind_logo.png" alt="GridMind AI Logo" width="150" height="150">
 </p>
 
