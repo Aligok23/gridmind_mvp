@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aligok23/gridmind_mvp/main/gridmind_logo.png" 
+       alt="GridMind AI Logo" width="150" height="150">
+</p>
+
+<h1 align="center">⚡ GridMind AI — Renewable Energy Intelligence Platform</h1>
 # ⚡ GridMind AI — Renewable Energy Intelligence Platform
 
 **GridMind AI** is an open-source MVP that uses artificial intelligence and open geospatial data to **find the most efficient renewable energy sites** and generate quick feasibility insights.
