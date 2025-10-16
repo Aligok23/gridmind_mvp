@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aligok23/gridmind_mvp/main/docs/gridmind_banner.png"
-       alt="GridMind AI Banner" width="100%">
+file:///C:/Users/User/Downloads/GridMind%20AI%20Smart.%20Sustainable.%20Scalable%20(2).svg
 </p>
 
 <p align="center">
